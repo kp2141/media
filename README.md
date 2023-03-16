@@ -4,8 +4,8 @@ below is image of the Project
 ![media](https://user-images.githubusercontent.com/26798743/225774999-57964bea-14d2-4ed5-910e-b9a2f27b48b0.PNG)
 
 1. In this Project we can create(Add) the user and then inside the user we can Add the Album and then inside that we can also add the image which we will come from the unsplash website(used API calling).
-
-2. I have used Redux for state management. Also used skeleton so that before loading the page that dummy skeleton will be rendered on the page.
+2. And same way we can delete the user and their album and their photos aswell. 
+3. I have used Redux for state management. Also used skeleton so that before loading the page that dummy skeleton will be rendered on the page.
 
 
 
